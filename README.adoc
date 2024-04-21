@@ -1,8 +1,7 @@
 = ti-cc-tool
+:toc:
 
 Docker image for https://github.com/JelmerT/cc2538-bsl[JelmerT/cc2538-bsl]
-
-:toc:
 
 * This project allows to flash a TI SoC with a single line of code.
 * Firmware files are supported as URL or local file, in native (bin/hex) and zipped format.
