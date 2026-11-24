@@ -1,13 +1,18 @@
 = ti-cc-tool
 :toc:
 
-IMPORTANT: This project was deprecated on 2026-11-24 because it was integrated into _cc2538-bsl_.
-Use the official image `ghcr.io/jelmert/cc2538-bsl:main` instead of `ckware/ti-cc-tool`.
-
 Docker image for https://github.com/JelmerT/cc2538-bsl[JelmerT/cc2538-bsl]
 
 * This project allows to flash a TI SoC with a single line of code.
 * Firmware files are supported as URL or local file, in native (bin/hex) and zipped format.
+
+== 🚨 Project Status
+[IMPORTANT]
+====
+*This project is deprecated since 2026-11-24 because it was integrated into https://github.com/JelmerT/cc2538-bsl[cc2538-bsl].*
+
+*It is recommended to use the official image `ghcr.io/jelmert/cc2538-bsl:main` instead of `ckware/ti-cc-tool`.*
+====
 
 == Usage
 === Docker
