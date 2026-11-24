@@ -1,6 +1,9 @@
 = ti-cc-tool
 :toc:
 
+IMPORTANT: This project was deprecated on 2026-11-24 because it was integrated into _cc2538-bsl_.
+Use the official image `ghcr.io/jelmert/cc2538-bsl:main` instead of `ckware/ti-cc-tool`.
+
 Docker image for https://github.com/JelmerT/cc2538-bsl[JelmerT/cc2538-bsl]
 
 * This project allows to flash a TI SoC with a single line of code.
